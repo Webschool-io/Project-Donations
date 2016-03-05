@@ -59,6 +59,7 @@ Entidades:
 - Projeto
 - Orçamento
 - Fornecedor
+- Meios de Pagamento
 
 ### Definição dos Átomos
 
