@@ -195,6 +195,27 @@ module.exports = new mongoose.Schema(Molecule);
 
 ### Definição das Rotas
 
+## Planejamento
+
+### Semana 1
+
+Criação dos Quarks, Átomos, Moléculas com **testes**.
+
+### Semana 2
+
+Criação dos Organismos e seu CRUD.
+Criação das Rotas para o Express e por consequencia a API REST do CRUD de cada entidade.
+Criação dos testes da API.
+
+### Semana 3
+
+Integração com Meio de Pagamento.
+Adição de regras de negócio específicas.
+
+### Semana 4
+
+Testes de unidade, stress e integração.
+
 ## Reuniões
 
 ### 04/03/2016 - Primeira
