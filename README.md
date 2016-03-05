@@ -65,7 +65,7 @@ Entidades:
 
 Nessa etapa definimos **todos** os Átomos(campos) necessários para o sistema, porém ainda sem ligarmos o Átomo à entidade, pois um mesmo átomo pode estar em mais de 1 Molécula.
 
-Átomos:
+Átomos (não finalizados):
 
 - name
 - email
